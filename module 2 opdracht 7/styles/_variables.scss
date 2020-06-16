@@ -1,0 +1,8 @@
+
+$BackgroundColor : rgb(150, 233, 95);
+$Padding: 20px;
+
+@mixin text {
+    max-width: 700px;
+    text-align: center;
+}
